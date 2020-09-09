@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-solution of a kaggle competition
+solution of a kaggle time-series competition
 
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
